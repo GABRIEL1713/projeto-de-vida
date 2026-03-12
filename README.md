@@ -1,2 +1,2 @@
 # projeto-de-vida
-desenvolvimento co html, cse java script
+desenvolvimento com html, cse java script
